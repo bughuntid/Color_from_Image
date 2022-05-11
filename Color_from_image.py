@@ -3,7 +3,6 @@
 # Import Libraries
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
-%matplotlib inline
 import numpy as np
 import cv2
 from collections import Counter
